@@ -15,7 +15,7 @@ This exercise evaluates a loan denial using Explainable ML models. We employ SHA
 
 
 ```
-Explainable-Machine-Learning
+Explainable-Machine-Learning-Loan-Prosecution
 ├── .github/
 │   └── workflows/
 │       └── ci-pipeline.yml
