@@ -10,8 +10,16 @@ This exercise evaluates a loan denial using Explainable ML models. We employ SHA
 
 ---
 ## Project Structure
+
+![alt text](image.png)
+
+
 ```
-.
+Explainable-Machine-Learning
+├── .github/
+│   └── workflows/
+│       └── ci-pipeline.yml
+├── Dockerfile
 ├── LICENSE
 ├── README.md
 ├── llm_log.txt
