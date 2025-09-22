@@ -1,3 +1,4 @@
+[![Repo](https://img.shields.io/badge/GitHub-Explainable--Machine--Learning--Loan--Prosecution-blue?logo=github)](https://github.com/U1186204/Explainable-Machine-Learning-Loan-Prosecution)
 [![CI Pipeline](https://github.com/U1186204/Explainable-Machine-Learning-Loan-Prosecution/actions/workflows/ci-pipeline.yml/badge.svg)](https://github.com/U1186204/Explainable-Machine-Learning-Loan-Prosecution/actions/workflows/ci-pipeline.yml)
 [![License](https://img.shields.io/github/license/U1186204/Explainable-Machine-Learning-Loan-Prosecution)](LICENSE)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/U1186204/Explainable-Machine-Learning-Loan-Prosecution/blob/main/loan_prosecution.ipynb)
